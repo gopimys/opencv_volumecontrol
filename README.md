@@ -1,3 +1,3 @@
 # opencv_volumecontrol
 
-with openCV and Meadiapipe we can control volume here
+with openCV and Mediapipe we can control volume here
